@@ -1,0 +1,17 @@
+a) The sum of elements of the first column: 10.25
+------------------------------------
+b) The sum of the elements of the main and secondary diagonals: -1.13
+------------------------------------
+c) The largest of the values of the first and last rows: 56
+------------------------------------
+d) The smallest of the values of the elements of the secondary diagonal and two adjacent lines: -0.13
+------------------------------------
+e) The sum of those matrix elements whose sum of indices is equal to m: 123
+------------------------------------
+f) is it true that the largest of the values of the elements of the main diagonal
+ is greater than the smallest of the values of the elements of the secondary diagonal: 1
+------------------------------------
+
+1 4 -0.13 
+6.25 2 67 
+3 56 -9 
